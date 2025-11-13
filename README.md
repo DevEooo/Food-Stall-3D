@@ -23,7 +23,7 @@ Reference: The tables and chairs feature dark, square metal frames and natural w
 <img src="images/View3.png" alt="Preview" width="300">
 </div>
 
-``**Stall/Counter Area:** The focal point is the service counter, which is designed to be inviting. It includes a signboard, a prominent sign that says "So Refreshing", and a poster for a signature dish.``
+**Stall/Counter Area:** The focal point is the service counter, which is designed to be inviting. It includes a signboard, a prominent sign that says "So Refreshing", and a poster for a signature dish.
 
 Inspiration: The overall open layout and modern structure are inspired by contemporary street vendor stalls and pop-up cafes.
 
