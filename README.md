@@ -9,8 +9,7 @@ The model was created using Blender and captures the atmosphere of a typical sma
 
 ### References: 
 
-<img src="images/ref1.jpg" alt="Preview" width="330">
-<img src="images/ref2.jpg" alt="Preview" width="330">
+<img src="images/ref1.jpg" alt="Preview" width="330"><img src="images/ref2.jpg" alt="Preview" width="330">
 
 Design Aesthetic: The model adopts a minimalist industrial style, characterized by the exposed structure and the contrast between wood and dark metal.
 
