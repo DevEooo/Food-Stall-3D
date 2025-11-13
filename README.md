@@ -18,11 +18,12 @@ Reference: The tables and chairs feature dark, square metal frames and natural w
 
 ### Stall View
 
+<div align="center">
 <img src="images/View1.png" alt="Preview" width="300"> <img src="images/View2.png" alt="Preview" width="300">
 <img src="images/View3.png" alt="Preview" width="300">
+</div>
 
-
-Stall/Counter Area: The focal point is the service counter, which is designed to be inviting. It includes a signboard, a prominent sign that says "So Refreshing", and a poster for a signature dish.
+**Stall/Counter Area:** The focal point is the service counter, which is designed to be inviting. It includes a signboard, a prominent sign that says "So Refreshing", and a poster for a signature dish.
 
 Inspiration: The overall open layout and modern structure are inspired by contemporary street vendor stalls and pop-up cafes.
 
@@ -34,11 +35,11 @@ To enhance the realism and cultural context of the cafe, several detailed props 
 
 <img src="images/obj1.png" alt="Preview" width="300">
 
-Marjan Syrup Bottles: A collection of highly detailed Marjan brand syrup bottles were modeled and textured, featuring popular Indonesian flavors like Melon, Coco Pandan, Moka, and Lychee. This instantly recognizable prop adds authenticity and context to the drink preparation area.
+**Marjan Syrup Bottles:** A collection of highly detailed Marjan brand syrup bottles were modeled and textured, featuring popular Indonesian flavors like Melon, Coco Pandan, Moka, and Lychee. This instantly recognizable prop adds authenticity and context to the drink preparation area.
 
 <img src="images/obj2.png" alt="Preview" width="300">
 
-Lychee Mocktail: A custom drink asset, identified as a Lychee Mocktail, was created. The model features a stylized glass with a detailed texture for the clear, icy blue drink, complete with small floating elements (suggestive of lychee fruit pieces) and a silver straw. This asset is intended for placement on the dining tables.
+**Lychee Mocktail:** A custom drink asset, identified as a Lychee Mocktail, was created. The model features a stylized glass with a detailed texture for the clear, icy blue drink, complete with small floating elements (suggestive of lychee fruit pieces) and a silver straw. This asset is intended for placement on the dining tables.
 
 --- 
 
