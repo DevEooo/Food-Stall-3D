@@ -29,7 +29,7 @@ Inspiration: The overall open layout and modern structure are inspired by contem
 
 ---
 
-## 🍹 Detailed Props and Assets
+## 🍹 Detailed Properties and Assets
 
 To enhance the realism and cultural context of the cafe, several detailed props were created:
 
